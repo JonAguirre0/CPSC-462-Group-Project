@@ -1,4 +1,6 @@
 # README - CPSC - 462
+By: Jean-Paul Lozano, Menfeng Xue, Jonathan Aguirre, Aditya Shah, Matthew Merrick
+
 
 ## Overview
 This project is a trivia game application built using Flask and JavaScript. The game loads categories and questions from JSON files, and users can select a question to answer. Users can either type their answer or select from multiple choice options. The game tracks the user's score and displays correct answers after each question.
